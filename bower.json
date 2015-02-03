@@ -1,0 +1,9 @@
+{
+  "name": "range events",
+  "devDependencies": {
+    "jasmine": "*",
+    "requirejs": "*",
+    "underscore": "*",
+    "priorityqueuejs": "https://github.com/janogonzalez/priorityqueuejs.git"
+  }
+}

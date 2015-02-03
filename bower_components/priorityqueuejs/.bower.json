@@ -1,0 +1,14 @@
+{
+  "name": "priorityqueuejs",
+  "homepage": "https://github.com/janogonzalez/priorityqueuejs",
+  "version": "0.2.0",
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.0",
+    "commit": "e52ae4cc2dbd975f1ae4f5f44e4c38069f6bf191"
+  },
+  "_source": "https://github.com/janogonzalez/priorityqueuejs.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/janogonzalez/priorityqueuejs.git"
+}
